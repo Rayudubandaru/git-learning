@@ -8,3 +8,5 @@
 8. Verify audio and video calls
 9. I have delete testbrach and created new brach is TestSample.
 10. Allow to create and delete the branch
+11. I have delete new brach
+12. I have created new branch
